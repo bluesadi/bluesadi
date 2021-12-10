@@ -4,4 +4,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/bluesadi?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/bluesadi?style=social)
 
 [![Data](https://github-readme-stats.vercel.app/api?username=bluesadi)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluesadi&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
