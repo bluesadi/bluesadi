@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am 34r7hm4n, alias blueasdi 👋
 
 <!--
 **bluesadi/bluesadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
