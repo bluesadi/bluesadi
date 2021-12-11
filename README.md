@@ -1,4 +1,9 @@
-##  Hi, I am 34r7hm4n, alias bluesadi 👋
+##  Hi, I am 34r7hm4n 👋
+
+- Aka bluesadi
+- Student at Sichuan University
+- CTFer at [0x401 Team](https://0x401.com/)
+- Major in reverse engineering
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bluesadi.bluesadi)
 ![GitHub followers](https://img.shields.io/github/followers/bluesadi?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/bluesadi?style=social)
