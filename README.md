@@ -7,6 +7,10 @@
 - Student at Sichuan University
 - CTFer | REer at [0x401 Team](https://0x401.com/)
 
+### Contact me
+- Discord: 34r7hm4n#6037
+- E-mail: bluesadi.cn@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluesadi&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Data](https://github-readme-stats.vercel.app/api?username=bluesadi)]()
 
