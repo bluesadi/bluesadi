@@ -5,7 +5,7 @@
 
 ### About me
 - Aka bluesadi
-- Undergraduate at Sichuan University, majoring in cyberspace security
+- Undergraduate student of Sichuan University, majoring in Cybersecurity
 - CTFer | REer at [0x401 Team](https://0x401.com/)
 
 ### Contact me
