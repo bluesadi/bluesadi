@@ -9,5 +9,4 @@
 - CTFer | REer at [0x401 Team](https://0x401.com/)
 
 ### Contact me
-- Discord: 34r7hm4n#6037
-- E-mail: bluesadi.cn@gmail.com
+- Discord: 34r7hm4n#6037 (not always online)
