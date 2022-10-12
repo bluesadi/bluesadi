@@ -5,7 +5,8 @@
 
 ### About me
 - Aka bluesadi
-- 3rd-year cybersecurity major at Sichuan University
+- 4th-year cybersecurity major at Sichuan University
+- Prospective PhD student
 - CTFer | REer at [0x401 Team](https://0x401.com/)
 
 ### Contact me
