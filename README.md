@@ -6,4 +6,5 @@
 ### About me
 - Aka bluesadi
 - Prospective PhD student
-- CTFer and Reverse engineering enthusiast
+- CTFer
+- Reverse engineering enthusiast
