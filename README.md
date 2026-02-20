@@ -1,10 +1,14 @@
-##  Hi, I am 34r7hm4n 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bluesadi.bluesadi)
-![GitHub followers](https://img.shields.io/github/followers/bluesadi?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/bluesadi?style=social)
+Readme · MD
+Copy
+
+## Hi, I am 34r7hm4n 👋
+
+![GitHub followers](https://img.shields.io/github/followers/bluesadi?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/bluesadi?style=social)
 
 ### About me
-- Aka bluesadi
-- First-year PhD student
-- CTFer
-- Reverse engineering enthusiast
+
+- Aka 34r7hm4n
+- Third-year PhD student [@sefcom](https://github.com/sefcom)
+- Reverse engineerng researcher
