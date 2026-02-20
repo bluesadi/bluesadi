@@ -1,7 +1,3 @@
-
-Readme · MD
-Copy
-
 ## Hi, I am 34r7hm4n 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/bluesadi?style=social)
