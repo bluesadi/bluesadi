@@ -8,3 +8,4 @@
 - Aka 34r7hm4n
 - Third-year PhD student [@sefcom](https://github.com/sefcom)
 - Reverse engineerng researcher
+- Vulnerability researcher
